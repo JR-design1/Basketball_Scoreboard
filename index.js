@@ -3,32 +3,32 @@ let awayScoreEl = document.getElementById("away-score-el")
 let homeScore = 0
 let awayScore = 0
 
-function addOneHome(){
+window.addOneHome = function(){
     homeScore += 1
     homeScoreEl.textContent = homeScore
 }
 
-function addTwoHome(){
+window.addTwoHome = function(){
     homeScore += 2
     homeScoreEl.textContent = homeScore
 }
 
-function addThreeHome(){
+window.addThreeHome = function(){
     homeScore += 3
     homeScoreEl.textContent = homeScore
 }
 
-function addOneAway(){
+window.addOneAway = function(){
     awayScore += 1
     awayScoreEl.textContent = awayScore
 }
 
-function addTwoAway(){
+window.addTwoAway = function(){
     awayScore += 2
     awayScoreEl.textContent = awayScore
 }
 
-function addThreeAway(){
+window.addThreeAway = function(){
     awayScore += 3
     awayScoreEl.textContent = awayScore
 }
