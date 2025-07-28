@@ -12,3 +12,6 @@ This project contains a basketball scoreboard that can be used to show basketbal
 
 ## Project Demo
 ![Basketball_Scoreboard](https://github.com/user-attachments/assets/32997e24-9d67-4e16-8a16-94554f0ed022)
+
+## Live Website
+Want to view this project? <a href="https://bballscorejr.netlify.app/" target="_blank">Click here to visit the website!</a>
